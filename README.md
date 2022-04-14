@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Rainiers
-- 🧡 I like Minecraft
-- 🌱 I’m a Minecraft player
-- 💞️ I'm a code rookie
-- 📫 I also like programming
+A Minecraft player
+and
+Nothing
 
 <!---
 Rainiers-c/Rainiers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
